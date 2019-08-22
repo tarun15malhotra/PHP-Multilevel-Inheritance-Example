@@ -1,5 +1,11 @@
 <?php
 
+/*
+
+PHP support single and multilevel inheritance but not support multiple inheritance.
+
+*/
+
 class first{
 
 	 function show(){
